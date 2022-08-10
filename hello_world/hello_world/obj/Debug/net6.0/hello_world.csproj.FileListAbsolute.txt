@@ -1,0 +1,15 @@
+C:\Users\NOAH\source\repos\hello_world\hello_world\bin\Debug\net6.0\hello_world.exe
+C:\Users\NOAH\source\repos\hello_world\hello_world\bin\Debug\net6.0\hello_world.deps.json
+C:\Users\NOAH\source\repos\hello_world\hello_world\bin\Debug\net6.0\hello_world.runtimeconfig.json
+C:\Users\NOAH\source\repos\hello_world\hello_world\bin\Debug\net6.0\hello_world.dll
+C:\Users\NOAH\source\repos\hello_world\hello_world\bin\Debug\net6.0\hello_world.pdb
+C:\Users\NOAH\source\repos\hello_world\hello_world\obj\Debug\net6.0\hello_world.csproj.AssemblyReference.cache
+C:\Users\NOAH\source\repos\hello_world\hello_world\obj\Debug\net6.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOAH\source\repos\hello_world\hello_world\obj\Debug\net6.0\hello_world.AssemblyInfoInputs.cache
+C:\Users\NOAH\source\repos\hello_world\hello_world\obj\Debug\net6.0\hello_world.AssemblyInfo.cs
+C:\Users\NOAH\source\repos\hello_world\hello_world\obj\Debug\net6.0\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\NOAH\source\repos\hello_world\hello_world\obj\Debug\net6.0\hello_world.dll
+C:\Users\NOAH\source\repos\hello_world\hello_world\obj\Debug\net6.0\refint\hello_world.dll
+C:\Users\NOAH\source\repos\hello_world\hello_world\obj\Debug\net6.0\hello_world.pdb
+C:\Users\NOAH\source\repos\hello_world\hello_world\obj\Debug\net6.0\hello_world.genruntimeconfig.cache
+C:\Users\NOAH\source\repos\hello_world\hello_world\obj\Debug\net6.0\ref\hello_world.dll
